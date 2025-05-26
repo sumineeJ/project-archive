@@ -23,7 +23,7 @@
 |-----|------|-----------|------|--------|------|--------|--------|
 | 01 | 봄바람재활의학과 BI/브랜딩 | personal | Design, BI | [🔗](https://github.com/sumineeJ/2412-01-personal-bombaram) | 로고 및 브랜딩 가이드 작업 | 2024.12.23 | 2025.01.16 |
 | 02 | 인하대학교 홈페이지 리뉴얼 | personal | Web, Publishing, UIUX | [🔗](https://github.com/sumineeJ/2502-01-personal-inha) | 대학교 홈페이지 리뉴얼 및 반응형 구현 | 2025.02.04 | 진행 중 |
-| 03 | 멍비서 앱 | personal | App, UIUX, Planning | [🔗](https://피그마링크.연결대기중/glgl) | 반려견 건강/산책 앱 기획 | 2025.02.06 | 2025.03.27 |
+| 03 | 멍비서 앱 | personal | App, UIUX, Planning | [🔗](https://github.com/sumineeJ/2502-02-personal-mungbiseo) | 반려견 건강/산책 앱 기획 | 2025.02.06 | 2025.03.27 |
 | 04 | 스팀 홈페이지 리디자인 | personal | Web, UIUX, Game, Publishing | [🔗](https://github.com/sumineeJ/2503-01-personal-steam) | 게임 중심의 몰입형 반응형 사이트 리디자인 | 2025.03.11 | 진행 중 |
 | 05 | 투어지 공유 자전거 앱 제작 | team | App, Web, UIUX, Publishing | [🔗](https://github.com/sumineeJ/2504-01-team-tourzy) | 공유 자전거 서비스 앱 설계 | 2025.04.01 | 2025.04.30 |
 | 06 | 돌봐효 앱 고도화 리뉴얼 | team | App, UIUX, Renewal | [🔗](https://github.com/sumineeJ/2505-01-team-dolbwahyo) | 기존 앱 인터페이스 개선 | 2025.05.07 | 2025.05.27 |
